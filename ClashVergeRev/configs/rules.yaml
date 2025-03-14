@@ -2,5 +2,6 @@ prepend:
   - 'DOMAIN-SUFFIX,store.steampowered.com,🔰 节点选择'
   - 'DOMAIN-SUFFIX,steamcommunity.com,🔰 节点选择'
   - 'DOMAIN-SUFFIX,monica.im,🔰 节点选择'
+  - 'beddystories.com',🔰 节点选择'
 append: []
 delete: []

@@ -5,5 +5,6 @@ prepend:
   - 'DOMAIN-SUFFIX,beddystories.com,🔰 节点选择'
   - 'DOMAIN-SUFFIX,mistral1.ai,🎯 全球直连,no-resolve'
   - 'DOMAIN-SUFFIX,mistral.ai,🔰 节点选择'
+  - 'DOMAIN-SUFFIX,huggingface.co,🔰 节点选择'
 append: []
 delete: []

@@ -1,10 +1,13 @@
 prepend:
   - 'DOMAIN-SUFFIX,store.steampowered.com,🔰 节点选择'
-  - 'DOMAIN-SUFFIX,steamcommunity.com,🔰 节点选择'
+  - 'DOMAIN-KEYWORD,steamcommunity,🔰 节点选择'
   - 'DOMAIN-SUFFIX,steamstatic.com,🔰 节点选择'
+  - 'DOMAIN-SUFFIX,steam-chat.com,🔰 节点选择'
+  - 'DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net,🔰 节点选择'
   - 'DOMAIN-SUFFIX,api.steampowered.com,🔰 节点选择'
   - 'DOMAIN-SUFFIX,monica.im,🔰 节点选择'
   - 'DOMAIN-SUFFIX,beddystories.com,🔰 节点选择'
+  - 'DOMAIN-SUFFIX,mistral1.ai,🎯 全球直连,no-resolve'
   - 'DOMAIN-SUFFIX,mistral.ai,🔰 节点选择'
   - 'DOMAIN-SUFFIX,huggingface.co,🔰 节点选择'
   - 'DOMAIN-SUFFIX,dify.ai,🔰 节点选择'

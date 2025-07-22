@@ -25,5 +25,7 @@ prepend:
   - 'DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,ChatGPT'
   - 'DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com,ChatGPT'
   - 'DOMAIN-SUFFIX,generativeai.google,ChatGPT'
+  - 'DOMAIN-SUFFIX,cursor.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,cursor.sh,ChatGPT'
 append: []
 delete: []

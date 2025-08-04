@@ -17,6 +17,7 @@ prepend:
   - 'DOMAIN-KEYWORD,colab,ChatGPT'
   - 'DOMAIN-SUFFIX,apis.google.com,ChatGPT'
   - 'DOMAIN-SUFFIX,googleapis.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com,ChatGPT'
   - 'DOMAIN-SUFFIX,gemini.google.com,ChatGPT'
   - 'DOMAIN-KEYWORD,developerprofiles,ChatGPT'
   - 'DOMAIN-SUFFIX,ai.google.dev,ChatGPT'

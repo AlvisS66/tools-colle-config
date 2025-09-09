@@ -28,5 +28,7 @@ prepend:
   - 'DOMAIN-SUFFIX,generativeai.google,ChatGPT'
   - 'DOMAIN-SUFFIX,cursor.com,ChatGPT'
   - 'DOMAIN-SUFFIX,cursor.sh,ChatGPT'
+  - 'DOMAIN-SUFFIX,knox.chat,🎯 全球直连,no-resolve'
+  - 'DOMAIN-SUFFIX,openrouter.co,🎯 全球直连,no-resolve'
 append: []
 delete: []

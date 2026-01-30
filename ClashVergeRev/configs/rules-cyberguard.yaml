@@ -7,7 +7,7 @@ prepend:
   - 'DOMAIN-SUFFIX,api.steampowered.com,CyberGuard'
   - 'DOMAIN-SUFFIX,monica.im,CyberGuard'
   - 'DOMAIN-SUFFIX,beddystories.com,CyberGuard'
-  - 'DOMAIN-SUFFIX,mistral1.ai,DIRECT,no-resolve'
+  - 'DOMAIN-SUFFIX,mistral1.ai,DIRECT'
   - 'DOMAIN-SUFFIX,mistral.ai,CyberGuard'
   - 'DOMAIN-SUFFIX,huggingface.co,CyberGuard'
   - 'DOMAIN-SUFFIX,dify.ai,CyberGuard'
@@ -31,8 +31,8 @@ prepend:
   - 'DOMAIN-SUFFIX,generativeai.google,ChatGPT'
   - 'DOMAIN-SUFFIX,cursor.com,ChatGPT'
   - 'DOMAIN-SUFFIX,cursor.sh,ChatGPT'
-  - 'DOMAIN-SUFFIX,knox.chat,DIRECT,no-resolve'
-  - 'DOMAIN-SUFFIX,bigmodel.cn,DIRECT,no-resolve'
+  - 'DOMAIN-SUFFIX,knox.chat,DIRECT'
+  - 'DOMAIN-SUFFIX,bigmodel.cn,DIRECT'
   - 'DOMAIN-SUFFIX,ping0.cc,ChatGPT'
 append: []
 delete: []

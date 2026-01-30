@@ -12,11 +12,14 @@ prepend:
   - 'DOMAIN-SUFFIX,huggingface.co,🔰 节点选择'
   - 'DOMAIN-SUFFIX,dify.ai,🔰 节点选择'
   - 'DOMAIN-SUFFIX,aistudio.google.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,accounts.google.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,developers.google.com,ChatGPT'
   - 'DOMAIN-SUFFIX,cloud.google.com,ChatGPT'
   - 'DOMAIN-KEYWORD,generativelanguage,ChatGPT'
   - 'DOMAIN-KEYWORD,colab,ChatGPT'
   - 'DOMAIN-SUFFIX,apis.google.com,ChatGPT'
   - 'DOMAIN-SUFFIX,googleapis.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,gstatic.com,ChatGPT'
   - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com,ChatGPT'
   - 'DOMAIN-SUFFIX,gemini.google.com,ChatGPT'
   - 'DOMAIN-KEYWORD,developerprofiles,ChatGPT'
@@ -29,6 +32,7 @@ prepend:
   - 'DOMAIN-SUFFIX,cursor.com,ChatGPT'
   - 'DOMAIN-SUFFIX,cursor.sh,ChatGPT'
   - 'DOMAIN-SUFFIX,knox.chat,🎯 全球直连,no-resolve'
-  - 'DOMAIN-SUFFIX,openrouter.co,🎯 全球直连,no-resolve'
+  - 'DOMAIN-SUFFIX,bigmodel.cn,🎯 全球直连,no-resolve'
+  - 'DOMAIN-SUFFIX,ping0.cc,ChatGPT'
 append: []
 delete: []
